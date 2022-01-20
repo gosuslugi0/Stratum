@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="190" height="186.045" viewBox="0 0 190 186.045">
+  <defs>
+    <filter id="chat-fill" x="0" y="6.115" width="190" height="179.93" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-color="#fff" flood-opacity="0.2"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="chat-fill-2" x="0" y="6.115" width="190" height="179.93" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="25" result="blur-2"/>
+      <feFlood flood-opacity="0.149" result="color"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur-2"/>
+      <feComposite operator="in" in="color"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+    <filter id="S" x="44.208" y="0" width="101.584" height="170.533" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2.5" result="blur-3"/>
+      <feFlood flood-opacity="0.2"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Icon" transform="translate(-830 -300.885)">
+    <g id="Сгруппировать_1" data-name="Сгруппировать 1" transform="translate(845 321.2)">
+      <g data-type="innerShadowGroup">
+        <g transform="matrix(1, 0, 0, 1, -15, -20.31)" filter="url(#chat-fill)">
+          <path id="chat-fill-3" data-name="chat-fill" d="M80,141.579c44.18,0,80-31.47,80-70.289S124.18,1,80,1,0,32.47,0,71.289c0,17.673,7.43,33.839,19.7,46.19a107.746,107.746,0,0,1-7.71,29.783,2.61,2.61,0,0,0,2.73,3.635c22.56-3.715,35.97-9.419,41.8-12.391A90.248,90.248,0,0,0,80,141.579Z" transform="translate(15 20.11)" fill="#fff"/>
+        </g>
+        <g transform="matrix(1, 0, 0, 1, -15, -20.31)" filter="url(#chat-fill-2)">
+          <path id="chat-fill-4" data-name="chat-fill" d="M80,141.579c44.18,0,80-31.47,80-70.289S124.18,1,80,1,0,32.47,0,71.289c0,17.673,7.43,33.839,19.7,46.19a107.746,107.746,0,0,1-7.71,29.783,2.61,2.61,0,0,0,2.73,3.635c22.56-3.715,35.97-9.419,41.8-12.391A90.248,90.248,0,0,0,80,141.579Z" transform="translate(15 20.11)" fill="#fff"/>
+        </g>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, -15, -20.31)" filter="url(#S)">
+        <text id="S-2" data-name="S" transform="matrix(0.98, 0.17, -0.17, 0.98, 56.57, 124.69)" fill="#212529" font-size="110" font-family="Gadugi-Bold, Gadugi" font-weight="700"><tspan x="0" y="0">S</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

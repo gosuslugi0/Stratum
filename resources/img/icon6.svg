@@ -1,0 +1,144 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="210.78" height="219.85" viewBox="0 0 210.78 219.85">
+  <defs>
+    <filter id="Icon_metro-fire" x="15" y="15" width="180.78" height="189.85" filterUnits="userSpaceOnUse">
+      <feOffset dy="-5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feFlood flood-color="#ccd1f0" flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Icon_metro-fire-2" x="15" y="15" width="180.78" height="189.85" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-color="#1e2dde" flood-opacity="0.302" result="color"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur-2"/>
+      <feComposite operator="in" in="color"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+    <filter id="Icon_metro-fire-3" x="12" y="12" width="186.78" height="195.85" filterUnits="userSpaceOnUse">
+      <feOffset dy="-5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-3"/>
+      <feFlood flood-color="#99a4e3" flood-opacity="0.302"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Icon_metro-fire-4" x="12" y="12" width="186.78" height="195.85" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-4"/>
+      <feFlood flood-color="#1e2dde" flood-opacity="0.302" result="color-2"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur-4"/>
+      <feComposite operator="in" in="color-2"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+    <filter id="Icon_metro-fire-5" x="9" y="9" width="192.78" height="201.85" filterUnits="userSpaceOnUse">
+      <feOffset dy="-5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="6" result="blur-5"/>
+      <feFlood flood-color="#6474d3" flood-opacity="0.502"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Icon_metro-fire-6" x="9" y="9" width="192.78" height="201.85" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-6"/>
+      <feFlood flood-color="#1e2dde" flood-opacity="0.302" result="color-3"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur-6"/>
+      <feComposite operator="in" in="color-3"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+    <filter id="Icon_metro-fire-7" x="6" y="6" width="198.78" height="207.85" filterUnits="userSpaceOnUse">
+      <feOffset dy="-5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="7" result="blur-7"/>
+      <feFlood flood-color="#344ac7" flood-opacity="0.502"/>
+      <feComposite operator="in" in2="blur-7"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Icon_metro-fire-8" x="6" y="6" width="198.78" height="207.85" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-8"/>
+      <feFlood flood-color="#1e2dde" flood-opacity="0.302" result="color-4"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur-8"/>
+      <feComposite operator="in" in="color-4"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+    <filter id="Icon_metro-fire-9" x="3" y="3" width="204.78" height="213.85" filterUnits="userSpaceOnUse">
+      <feOffset dy="-5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="8" result="blur-9"/>
+      <feFlood flood-color="#283bd3" flood-opacity="0.502"/>
+      <feComposite operator="in" in2="blur-9"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Icon_metro-fire-10" x="3" y="3" width="204.78" height="213.85" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-10"/>
+      <feFlood flood-color="#1e2dde" flood-opacity="0.302" result="color-5"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur-10"/>
+      <feComposite operator="in" in="color-5"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+    <filter id="Icon_metro-fire-11" x="0" y="0" width="210.78" height="219.85" filterUnits="userSpaceOnUse">
+      <feOffset dy="-5" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="9" result="blur-11"/>
+      <feFlood flood-color="#1e2dde" flood-opacity="0.502"/>
+      <feComposite operator="in" in2="blur-11"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Icon_metro-fire-12" x="0" y="0" width="210.78" height="219.85" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-12"/>
+      <feFlood flood-color="#1e2dde" flood-opacity="0.478" result="color-6"/>
+      <feComposite operator="out" in="SourceGraphic" in2="blur-12"/>
+      <feComposite operator="in" in="color-6"/>
+      <feComposite operator="in" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Сгруппировать_1" data-name="Сгруппировать 1" transform="translate(-57 -24)">
+    <g data-type="innerShadowGroup">
+      <g transform="matrix(1, 0, 0, 1, 57, 24)" filter="url(#Icon_metro-fire)">
+        <path id="Icon_metro-fire-13" data-name="Icon metro-fire" d="M48.837,167.778c-12.034-23-5.626-36.179,3.624-48.6A73.963,73.963,0,0,0,65.2,92.124s7.962,9.507,4.777,24.377c14.067-14.382,16.721-37.3,14.6-46.073,31.8,20.409,45.386,64.6,27.072,97.35,97.405-50.619,24.229-126.359,11.489-134.891,4.247,8.532,5.052,22.974-3.527,29.984C105.088,12.294,69.181,1.928,69.181,1.928c4.247,26.083-15.394,54.6-34.333,75.917-.666-10.4-1.372-17.577-7.327-27.53C26.185,69.208,10.464,84.61,6.207,103.54.44,129.176,10.527,147.947,48.837,167.778Z" transform="translate(22.3 30.07)" fill="#fff"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 57, 24)" filter="url(#Icon_metro-fire-2)">
+        <path id="Icon_metro-fire-14" data-name="Icon metro-fire" d="M48.837,167.778c-12.034-23-5.626-36.179,3.624-48.6A73.963,73.963,0,0,0,65.2,92.124s7.962,9.507,4.777,24.377c14.067-14.382,16.721-37.3,14.6-46.073,31.8,20.409,45.386,64.6,27.072,97.35,97.405-50.619,24.229-126.359,11.489-134.891,4.247,8.532,5.052,22.974-3.527,29.984C105.088,12.294,69.181,1.928,69.181,1.928c4.247,26.083-15.394,54.6-34.333,75.917-.666-10.4-1.372-17.577-7.327-27.53C26.185,69.208,10.464,84.61,6.207,103.54.44,129.176,10.527,147.947,48.837,167.778Z" transform="translate(22.3 30.07)" fill="#fff"/>
+      </g>
+    </g>
+    <g data-type="innerShadowGroup">
+      <g transform="matrix(1, 0, 0, 1, 57, 24)" filter="url(#Icon_metro-fire-3)">
+        <path id="Icon_metro-fire-15" data-name="Icon metro-fire" d="M48.837,167.778c-12.034-23-5.626-36.179,3.624-48.6A73.963,73.963,0,0,0,65.2,92.124s7.962,9.507,4.777,24.377c14.067-14.382,16.721-37.3,14.6-46.073,31.8,20.409,45.386,64.6,27.072,97.35,97.405-50.619,24.229-126.359,11.489-134.891,4.247,8.532,5.052,22.974-3.527,29.984C105.088,12.294,69.181,1.928,69.181,1.928c4.247,26.083-15.394,54.6-34.333,75.917-.666-10.4-1.372-17.577-7.327-27.53C26.185,69.208,10.464,84.61,6.207,103.54.44,129.176,10.527,147.947,48.837,167.778Z" transform="translate(22.3 30.07)" fill="#fff"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 57, 24)" filter="url(#Icon_metro-fire-4)">
+        <path id="Icon_metro-fire-16" data-name="Icon metro-fire" d="M48.837,167.778c-12.034-23-5.626-36.179,3.624-48.6A73.963,73.963,0,0,0,65.2,92.124s7.962,9.507,4.777,24.377c14.067-14.382,16.721-37.3,14.6-46.073,31.8,20.409,45.386,64.6,27.072,97.35,97.405-50.619,24.229-126.359,11.489-134.891,4.247,8.532,5.052,22.974-3.527,29.984C105.088,12.294,69.181,1.928,69.181,1.928c4.247,26.083-15.394,54.6-34.333,75.917-.666-10.4-1.372-17.577-7.327-27.53C26.185,69.208,10.464,84.61,6.207,103.54.44,129.176,10.527,147.947,48.837,167.778Z" transform="translate(22.3 30.07)" fill="#fff"/>
+      </g>
+    </g>
+    <g data-type="innerShadowGroup">
+      <g transform="matrix(1, 0, 0, 1, 57, 24)" filter="url(#Icon_metro-fire-5)">
+        <path id="Icon_metro-fire-17" data-name="Icon metro-fire" d="M48.837,167.778c-12.034-23-5.626-36.179,3.624-48.6A73.963,73.963,0,0,0,65.2,92.124s7.962,9.507,4.777,24.377c14.067-14.382,16.721-37.3,14.6-46.073,31.8,20.409,45.386,64.6,27.072,97.35,97.405-50.619,24.229-126.359,11.489-134.891,4.247,8.532,5.052,22.974-3.527,29.984C105.088,12.294,69.181,1.928,69.181,1.928c4.247,26.083-15.394,54.6-34.333,75.917-.666-10.4-1.372-17.577-7.327-27.53C26.185,69.208,10.464,84.61,6.207,103.54.44,129.176,10.527,147.947,48.837,167.778Z" transform="translate(22.3 30.07)" fill="#fff"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 57, 24)" filter="url(#Icon_metro-fire-6)">
+        <path id="Icon_metro-fire-18" data-name="Icon metro-fire" d="M48.837,167.778c-12.034-23-5.626-36.179,3.624-48.6A73.963,73.963,0,0,0,65.2,92.124s7.962,9.507,4.777,24.377c14.067-14.382,16.721-37.3,14.6-46.073,31.8,20.409,45.386,64.6,27.072,97.35,97.405-50.619,24.229-126.359,11.489-134.891,4.247,8.532,5.052,22.974-3.527,29.984C105.088,12.294,69.181,1.928,69.181,1.928c4.247,26.083-15.394,54.6-34.333,75.917-.666-10.4-1.372-17.577-7.327-27.53C26.185,69.208,10.464,84.61,6.207,103.54.44,129.176,10.527,147.947,48.837,167.778Z" transform="translate(22.3 30.07)" fill="#fff"/>
+      </g>
+    </g>
+    <g data-type="innerShadowGroup">
+      <g transform="matrix(1, 0, 0, 1, 57, 24)" filter="url(#Icon_metro-fire-7)">
+        <path id="Icon_metro-fire-19" data-name="Icon metro-fire" d="M48.837,167.778c-12.034-23-5.626-36.179,3.624-48.6A73.963,73.963,0,0,0,65.2,92.124s7.962,9.507,4.777,24.377c14.067-14.382,16.721-37.3,14.6-46.073,31.8,20.409,45.386,64.6,27.072,97.35,97.405-50.619,24.229-126.359,11.489-134.891,4.247,8.532,5.052,22.974-3.527,29.984C105.088,12.294,69.181,1.928,69.181,1.928c4.247,26.083-15.394,54.6-34.333,75.917-.666-10.4-1.372-17.577-7.327-27.53C26.185,69.208,10.464,84.61,6.207,103.54.44,129.176,10.527,147.947,48.837,167.778Z" transform="translate(22.3 30.07)" fill="#fff"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 57, 24)" filter="url(#Icon_metro-fire-8)">
+        <path id="Icon_metro-fire-20" data-name="Icon metro-fire" d="M48.837,167.778c-12.034-23-5.626-36.179,3.624-48.6A73.963,73.963,0,0,0,65.2,92.124s7.962,9.507,4.777,24.377c14.067-14.382,16.721-37.3,14.6-46.073,31.8,20.409,45.386,64.6,27.072,97.35,97.405-50.619,24.229-126.359,11.489-134.891,4.247,8.532,5.052,22.974-3.527,29.984C105.088,12.294,69.181,1.928,69.181,1.928c4.247,26.083-15.394,54.6-34.333,75.917-.666-10.4-1.372-17.577-7.327-27.53C26.185,69.208,10.464,84.61,6.207,103.54.44,129.176,10.527,147.947,48.837,167.778Z" transform="translate(22.3 30.07)" fill="#fff"/>
+      </g>
+    </g>
+    <g data-type="innerShadowGroup">
+      <g transform="matrix(1, 0, 0, 1, 57, 24)" filter="url(#Icon_metro-fire-9)">
+        <path id="Icon_metro-fire-21" data-name="Icon metro-fire" d="M48.837,167.778c-12.034-23-5.626-36.179,3.624-48.6A73.963,73.963,0,0,0,65.2,92.124s7.962,9.507,4.777,24.377c14.067-14.382,16.721-37.3,14.6-46.073,31.8,20.409,45.386,64.6,27.072,97.35,97.405-50.619,24.229-126.359,11.489-134.891,4.247,8.532,5.052,22.974-3.527,29.984C105.088,12.294,69.181,1.928,69.181,1.928c4.247,26.083-15.394,54.6-34.333,75.917-.666-10.4-1.372-17.577-7.327-27.53C26.185,69.208,10.464,84.61,6.207,103.54.44,129.176,10.527,147.947,48.837,167.778Z" transform="translate(22.3 30.07)" fill="#fff"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 57, 24)" filter="url(#Icon_metro-fire-10)">
+        <path id="Icon_metro-fire-22" data-name="Icon metro-fire" d="M48.837,167.778c-12.034-23-5.626-36.179,3.624-48.6A73.963,73.963,0,0,0,65.2,92.124s7.962,9.507,4.777,24.377c14.067-14.382,16.721-37.3,14.6-46.073,31.8,20.409,45.386,64.6,27.072,97.35,97.405-50.619,24.229-126.359,11.489-134.891,4.247,8.532,5.052,22.974-3.527,29.984C105.088,12.294,69.181,1.928,69.181,1.928c4.247,26.083-15.394,54.6-34.333,75.917-.666-10.4-1.372-17.577-7.327-27.53C26.185,69.208,10.464,84.61,6.207,103.54.44,129.176,10.527,147.947,48.837,167.778Z" transform="translate(22.3 30.07)" fill="#fff"/>
+      </g>
+    </g>
+    <g data-type="innerShadowGroup">
+      <g transform="matrix(1, 0, 0, 1, 57, 24)" filter="url(#Icon_metro-fire-11)">
+        <path id="Icon_metro-fire-23" data-name="Icon metro-fire" d="M48.837,167.778c-12.034-23-5.626-36.179,3.624-48.6A73.963,73.963,0,0,0,65.2,92.124s7.962,9.507,4.777,24.377c14.067-14.382,16.721-37.3,14.6-46.073,31.8,20.409,45.386,64.6,27.072,97.35,97.405-50.619,24.229-126.359,11.489-134.891,4.247,8.532,5.052,22.974-3.527,29.984C105.088,12.294,69.181,1.928,69.181,1.928c4.247,26.083-15.394,54.6-34.333,75.917-.666-10.4-1.372-17.577-7.327-27.53C26.185,69.208,10.464,84.61,6.207,103.54.44,129.176,10.527,147.947,48.837,167.778Z" transform="translate(22.3 30.07)" fill="#fff"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, 57, 24)" filter="url(#Icon_metro-fire-12)">
+        <path id="Icon_metro-fire-24" data-name="Icon metro-fire" d="M48.837,167.778c-12.034-23-5.626-36.179,3.624-48.6A73.963,73.963,0,0,0,65.2,92.124s7.962,9.507,4.777,24.377c14.067-14.382,16.721-37.3,14.6-46.073,31.8,20.409,45.386,64.6,27.072,97.35,97.405-50.619,24.229-126.359,11.489-134.891,4.247,8.532,5.052,22.974-3.527,29.984C105.088,12.294,69.181,1.928,69.181,1.928c4.247,26.083-15.394,54.6-34.333,75.917-.666-10.4-1.372-17.577-7.327-27.53C26.185,69.208,10.464,84.61,6.207,103.54.44,129.176,10.527,147.947,48.837,167.778Z" transform="translate(22.3 30.07)" fill="#fff"/>
+      </g>
+    </g>
+  </g>
+</svg>

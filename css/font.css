@@ -1,0 +1,31 @@
+@font-face { font-family: 'UbuntuM'; src: url(../resources/font/Ubuntu-M.ttf); }
+@font-face { font-family: 'MB'; src: url(../resources/font/MB.ttf); }
+@font-face { font-family: 'ML'; src: url(../resources/font/ML.ttf); }
+@font-face { font-family: 'MT'; src: url(../resources/font/MT.ttf); }
+@font-face { font-family: 'MM'; src: url(../resources/font/MM.ttf); }
+@font-face { font-family: 'raleway'; src: url(../resources/font/raleway.ttf); }
+/*@font-face { font-family: ''; src: url(../resources/font/); }*/
+
+*{
+    font-family: MM;
+}
+.font_navbar{
+    font-family: ML;
+    vertical-align: middle;
+}
+.font_hs{
+    font-size: 26px;
+    font-family: MB;
+}
+.title_font{
+    font-family: MM;
+}
+.card-text{
+    font-family: ML;
+}
+.card-title{
+    font-family: MM;
+}
+table tbody th{
+    font-family: MB;
+}
